@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konecta", "Konecta.csproj", "{CC79FFF6-5A9C-4EDB-AE67-A0E1CCC97C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC79FFF6-5A9C-4EDB-AE67-A0E1CCC97C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC79FFF6-5A9C-4EDB-AE67-A0E1CCC97C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC79FFF6-5A9C-4EDB-AE67-A0E1CCC97C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC79FFF6-5A9C-4EDB-AE67-A0E1CCC97C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B52DC2C4-707D-41D9-967F-AA9A8DC5EE09}
+	EndGlobalSection
+EndGlobal
